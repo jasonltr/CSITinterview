@@ -1,0 +1,25 @@
+CSIT CLOUD TECHNICAL ASSESSMENT 
+Hi, thank you for your interest in CSIT! Appended below is the technical assessment that will be  discussed during the technical interview. Please send your solution to us before the technical  interview. There is no model or a perfect solution but please state your assumptions clearly. 
+Brief 1 
+Imagine that you are designing a cloud infrastructure to run the media information system (MIS) for  The Nations Press (TNP). TNP is an English newspapers company which publishes and delivers daily  news contents to a wide audience of an average of 1 million print customers and 5 million online  readers.  
+• The contents are delivered via a variety of platforms – print hardcopy media, via browsers  on a range of devices ranging from PCs, notebooks, tablets to mobile phone apps.  
+• The contents include news, pictures, videos, and live streams of multi-media contents for  real-life events and they must be available 24x7 and with very low latency to the subscribers.  
+• An AI bot within the system will cleverly insert customized advertisements based on the  subscriber’s chosen interest areas.  
+• There are about three hundred reporters working for TNP and they are spread within the  country (about two third) and across the world (about one third) in the three time zones  (Asia, US and Europe).  
+• The reporters are the front-line eyes and the ears of the company. They glean information  from many sources including the publics, the private establishments, the government  agencies.  
+• The news coverage is wide and may consists of societal events, political news, sports,  accidents, education, business, medicine, showbiz, lifestyle, technology, military, human interest stories … etc. . Therefore, the system must be available round the clock for the  reporters to upload and edit contents, pictures and videos from all types of sources. 
+• The news gathered by the reporters will be submitted to the editors who will determine  what will be published and printed.  
+• The research teams in TNP will use the system to crawl the news portals across the world to  collect news-worthy information and to negotiate with the content owners to republish the  contents.  
+• Some of the contents will be in the local vernacular language (eg. Bahasa Indonesia, etc.), and the TNP developers have created a AI translation engine to convert the contents into  English.  
+• The TNP developer team uses an industry leading CICD tool (assume Jenkins and/or Git) to  build, test, package and deploy the containerized applications.  
+• The media information system is the heart of the entire organization and it is also the data  lake that store massive amount of structured and unstructured data which are the lifeline of  the organization. The system is regarded as mission critical and its availability and security is  of utmost importance to the organization.
+Task 1: 
+i. Please design a manageable, secure, scalable, high performance, efficient, elastic, highly  available, fault tolerant and recoverable architecture that allows the company to grow.  
+You may apply the cloud technologies from AWS, MS Azure, GCP or VMWare for your design.  Please assume that your audience is not super familiar with the cloud technologies and the  terminologies. 
+ii. Describe the various architecture components that are involved and the challenges that are  expected, and the various ways to overcome these challenges. State all your assumptions  clearly. 
+<You may use PowerPoint or any tools to present your solution over MS TEAMS> 
+Brief 2  
+TNP’s media information system has been operational for the past six months. Recently, many users  are complaining that a web application which used to respond in sub-second, is responding very  slowly these days. Some users see many 4XX errors while some users see 5xx errors. We do not  know if the problem is with the client browser end, the webapp process itself, the Linux node,  networking, or etc. 
+Task 2:  
+i. List how you go about to check and troubleshoot the problems. You may suggest commands  and tools to use during the resolution process. You may list the metrics which you use and  why you use them. 
+ii. Please describe how you analyze the situation, use the metrics, and derive the  recommended steps. Do state the assumptions you made regarding the scenarios <You may use PowerPoint or any tools to present your solution over MS TEAMS>

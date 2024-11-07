@@ -1,0 +1,29 @@
+
+About the job
+
+You will be part of a dynamic team responsible for researching, exploring and adopting the latest cloud technologies to modernise platform services and solutions. You must have a good understanding of IT architecture, DevOps, Software Engineering, Platform Solutions Design and Strategy, and Application & System Integration. Our ideal team member will design workflow and interfaces to optimise platforms services for system delivery, performance, scalability, reliability and extensibility.
+
+Responsibilities
+
+    Design, develop and implement PaaS platforms, tools and services
+    Review and identify areas for improvements to optimise platforms and its services for system delivery, performance, scalability reliability and extensibility
+    Provide advice and support for PaaS technology and systems
+
+
+Requirements (Minimum Qualifications)
+
+    Degree in Computer Science or Electronic/Electrical Engineering
+    2-5 years of relevant working experience, including scripting and programming experiences
+    Knowledge in IT Infrastructure (i.e. IT Networks, Communications, and Data Centre Management) and Infra Operations
+    Software Development experience, with skills in scripting & programming frameworks like Powershell, Ansible, vRA, Python, Terraform, Linux shell scripts etc.
+    Knowledge in IT Application development (i.e. DevOps, SDLC, Agile Development etc.)
+    Development experience for mid-size IT projects
+    System operations and administration experience on enterprise systems
+
+
+Nice-to-haves 
+
+    Cloud certifications, such as AWS, Azure certificates.
+
+
+As CSIT is an agency under the Ministry of Defence (Singapore), only Singapore Citizens will be considered.
