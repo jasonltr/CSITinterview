@@ -92,3 +92,10 @@ ii. Describe the various architecture components that are involved and the chall
     - Some tools are used 
 
 
+### 12 Nov 2024
+
+Added draw.io diagram
+
+I just drew what I knew and understand can work, based on my previous experience
+
+- [x] Initialize Git repository 
