@@ -98,4 +98,5 @@ Added draw.io diagram
 
 I just drew what I knew and understand can work, based on my previous experience
 
-- [x] Initialize Git repository 
+#### List of resources + justification
+- [x] 
