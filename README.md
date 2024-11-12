@@ -1,3 +1,6 @@
+![image](./aws.drawio.png)
+
+
 # CSIT Interview Question
 
 This readme will serve as my diary at attempting the CSIT Interview Question for the role of Cloud Engineer  
