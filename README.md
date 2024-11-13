@@ -138,3 +138,16 @@ Example workflow for reporters:
     - Run translator (assuming code is built and deployed on k8s cluster) 
 
 
+Brief 2  
+TNP’s media information system has been operational for the past six months. Recently, many users  are complaining that a web application which used to respond in sub-second, is responding very  slowly these days. Some users see many 4XX errors while some users see 5xx errors. We do not  know if the problem is with the client browser end, the webapp process itself, the Linux node,  networking, or etc. 
+Task 2:  
+i. List how you go about to check and troubleshoot the problems. You may suggest commands  and tools to use during the resolution process. You may list the metrics which you use and  why you use them.  
+ii. Please describe how you analyze the situation, use the metrics, and derive the  recommended steps. Do state the assumptions you made regarding the scenarios  
+
+4XX errors are related to client side
+
+5XX errors are usually server side
+
+
+
+

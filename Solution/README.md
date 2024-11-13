@@ -1,6 +1,7 @@
+### Architecture diagram
 ![image](./../aws.drawio.png)
 
-Summary of Architecture components
+### Summary of Architecture components
 
 | S/N | Category                     | Components                                               | Purpose / Function                                                   | Potential Challenges                      | Potential Solutions                      | Comments|
 |-----|------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------|------------------------------------------|-|
