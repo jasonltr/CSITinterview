@@ -1,4 +1,4 @@
-![image](/CSITinterview/Solution/aws.drawio.png)
+![image](./../aws.drawio.png)
 
 Summary of Architecture components
 
