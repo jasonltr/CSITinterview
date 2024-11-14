@@ -6,7 +6,6 @@ You may apply the cloud technologies from AWS, MS Azure, GCP or VMWare for your 
 ### Architecture diagram
 ![image](./../aws.drawio.png)
 
-
 ii. Describe the various architecture components that are involved and the challenges that are  expected, and the various ways to overcome these challenges. State all your assumptions  clearly. 
 ### Summary of Architecture components
 
